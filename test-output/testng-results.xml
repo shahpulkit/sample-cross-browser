@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-02T04:26:13 IST" name="Main Test Suite" finished-at="2020-08-02T04:26:15 IST" duration-ms="2195">
+    <groups>
+    </groups>
+    <test started-at="2020-08-02T04:26:13 IST" name="TestNG Grid1" finished-at="2020-08-02T04:26:15 IST" duration-ms="2186">
+      <class name="com.scenario.one.NewTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.scenario.one.NewTest@1c7696c6]" started-at="2020-08-02T04:26:13 IST" name="setUp" finished-at="2020-08-02T04:26:15 IST" duration-ms="1392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGooglePageTitleInIEBrowser()[pri:0, instance:com.scenario.one.NewTest@1c7696c6]" started-at="2020-08-02T04:26:15 IST" name="testGooglePageTitleInIEBrowser" finished-at="2020-08-02T04:26:15 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInIEBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.scenario.one.NewTest@1c7696c6]" started-at="2020-08-02T04:26:15 IST" name="closeBrowser" finished-at="2020-08-02T04:26:15 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.scenario.one.NewTest -->
+    </test> <!-- TestNG Grid1 -->
+    <test started-at="2020-08-02T04:26:13 IST" name="TestNG Grid" finished-at="2020-08-02T04:26:15 IST" duration-ms="2195">
+      <class name="com.scenario.one.NewTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.scenario.one.NewTest@771a660]" started-at="2020-08-02T04:26:13 IST" name="setUp" finished-at="2020-08-02T04:26:15 IST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGooglePageTitleInIEBrowser()[pri:0, instance:com.scenario.one.NewTest@771a660]" started-at="2020-08-02T04:26:15 IST" name="testGooglePageTitleInIEBrowser" finished-at="2020-08-02T04:26:15 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInIEBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.scenario.one.NewTest@771a660]" started-at="2020-08-02T04:26:15 IST" name="closeBrowser" finished-at="2020-08-02T04:26:15 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.scenario.one.NewTest -->
+    </test> <!-- TestNG Grid -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
